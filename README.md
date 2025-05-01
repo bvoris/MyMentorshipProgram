@@ -4,7 +4,7 @@ This mentorship program is built around one-on-one conversations to understand y
 
 # About the program
 I've been running a mentorship program since about 2012.<BR />
-I established this program to help individuals wanting to gain entry into the IT field. This program has since morphed into career transitions, entry level (high school & college students) career planning, and in the last 5 years Information Security and Cybersecurity.<BR />
+I established this program to help individuals wanting to gain entry into the IT field. This program has since morphed into career transitions, entry level (high school & college students) career planning, and in the last 5 years Information Security and Cybersecurity.<BR /> My main reasoning for establishing a mentorship program was that when I started in IT in the late 90's there weren't very many mentors out there. There were no established mentorship programs available. I wanted to change that and build something to help others.<BR />
 <BR /><BR />
 ## How does the program work?
 # We will have a one on one discussion
