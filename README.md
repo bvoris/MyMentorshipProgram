@@ -13,10 +13,14 @@ Sample role:<BR />
 https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Security%20Analyst%20Job%20Research.xlsx
 
 # How do we go from current state to future state?
+We develop an individualized career plan for you based on what you want to accomplish.<BR />
 Career Planning Guide<BR />
 https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Career%20Planning.xlsx<BR />
 
 https://bvoris.github.io/content/career%20planning%20guide/2022/05/03/careerplanningguide/
 
+# Where do we go from here
+This is a CI/CD model... Continous improvement and continous development. Together over time we figure out where you want to go and how you can get there.
+<BR />
 <BR /><BR />
 # Do you want to start a mentorship program?
