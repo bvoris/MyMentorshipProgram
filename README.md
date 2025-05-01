@@ -2,8 +2,9 @@
 My Mentorship Program
 
 # We will have a one on one discussion
-What do you want to do?
-I have to understand what it is that you want to do. The answer cannot be "make lots of money". You can make a lot of money doing less stressful jobs.<BR />
+What do you want to do?<BR />
+I have to understand what it is that you want to do. The answer cannot be "make lots of money".<BR />
+You can make a lot of money doing less stressful jobs.<BR />
 You have to have a passion for people, process, data and technology.<BR />
 
 # Have you looked at what these roles require for experience, skills, degree, and certifications?
