@@ -6,6 +6,7 @@ This mentorship program is built around one-on-one conversations to understand y
 I've been running a mentorship program since about 2012.<BR />
 I established this program to help individuals wanting to gain entry into the IT field. This program has since morphed into career transitions, entry level (high school & college students) career planning, and in the last 5 years Information Security and Cybersecurity.<BR />
 
+## How does the program work?
 # We will have a one on one discussion
 Our initial meeting is typically a video chat for 1 hour.<BR />
 I typically introduce myself, current employer, certifications, experience, skills, etc.<BR />
@@ -31,10 +32,10 @@ https://bvoris.github.io/content/career%20planning%20guide/2022/05/03/careerplan
 This is a CI/CD model... Continous improvement and continous development. Together over time we figure out where you want to go and how you can get there.
 <BR />
 <BR /><BR />
+
+
 # Do you want to start a mentorship program?
 Reach out! I'd love to help you get started.<BR />
-
-
 
 ## Connect with me at
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
