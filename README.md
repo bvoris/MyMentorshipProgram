@@ -20,7 +20,7 @@ https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Career%20Plan
 
 https://bvoris.github.io/content/career%20planning%20guide/2022/05/03/careerplanningguide/
 
-# Where do we go from here
+# Where do we go from here?
 This is a CI/CD model... Continous improvement and continous development. Together over time we figure out where you want to go and how you can get there.
 <BR />
 <BR /><BR />
