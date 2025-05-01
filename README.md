@@ -5,7 +5,7 @@ This mentorship program is built around one-on-one conversations to understand y
 # About the program
 I've been running a mentorship program since about 2012.<BR />
 I established this program to help individuals wanting to gain entry into the IT field. This program has since morphed into career transitions, entry level (high school & college students) career planning, and in the last 5 years Information Security and Cybersecurity.<BR />
-
+<BR /><BR />
 ## How does the program work?
 # We will have a one on one discussion
 Our initial meeting is typically a video chat for 1 hour.<BR />
