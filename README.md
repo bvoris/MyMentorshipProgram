@@ -6,7 +6,14 @@ This mentorship program is built around one-on-one conversations to understand y
 I've been running a mentorship program since about 2012.<BR />
 I established this program to help individuals wanting to gain entry into the IT field. This program has since morphed into career transitions, entry level (high school & college students) career planning, and in the last 5 years Information Security and Cybersecurity.<BR /> My main reasoning for establishing a mentorship program was that when I started in IT in the late 90's there weren't very many mentors out there. There were no established mentorship programs available. I wanted to change that and build something to help others.<BR />
 <BR /><BR />
+
 ## How does the program work?
+# Realistic Expectations
+This is a two way street, if you want help and put in the effort you will get the help you need. Respect my time and I will respect yours. Time is valuable so lets not waste either of ours.<BR />
+This is a life long mentorship program.<BR />
+There is no cost or fees. This is just doing the right thing.<BR />
+
+
 # We will have a one on one discussion
 Our initial meeting is typically a video chat for 1 hour.<BR />
 I typically introduce myself, current employer, certifications, experience, skills, etc.<BR />
