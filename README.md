@@ -28,13 +28,13 @@ This is a CI/CD model... Continous improvement and continous development. Togeth
 <BR />
 <BR /><BR />
 # Do you want to start a mentorship program?
+Reach out! I'd love to help you get started.<BR />
+
+
 
 ## Connect with me at
-
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
-
 <a href="https://www.linkedin.com/in/brad-voris" target="_blank"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/linkedin.png" WIDTH=10% HEIGHT=4% ALIGN=RIGHT></a>
-
 <BR /><BR />
 <BR /><BR />
 
