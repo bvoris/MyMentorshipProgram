@@ -2,6 +2,10 @@
 My Mentorship Program - Brad Voris<BR />
 This mentorship program is built around one-on-one conversations to understand your true career goals — beyond just making money. It’s designed for those passionate about people, process, data, and technology. Together, we’ll assess your current skills, experience, degrees, and certifications against your desired role, then create a personalized career plan to bridge the gap. This program follows a Continuous Improvement and Continuous Development (CI/CD) model, evolving over time as you grow and your goals develop.<BR />
 
+# About the program
+I've been running a mentorship program since about 2012.<BR />
+I established this program to help individuals wanting to gain entry into the IT field. This program has since morphed into career transitions, entry level (high school & college students) career planning, and in the last 5 years Information Security and Cybersecurity.<BR />
+
 # We will have a one on one discussion
 Our initial meeting is typically a video chat for 1 hour.<BR />
 I typically introduce myself, current employer, certifications, experience, skills, etc.<BR />
