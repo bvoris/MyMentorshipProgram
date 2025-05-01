@@ -3,6 +3,9 @@ My Mentorship Program<BR />
 This mentorship program is built around one-on-one conversations to understand your true career goals — beyond just making money. It’s designed for those passionate about people, process, data, and technology. Together, we’ll assess your current skills, experience, degrees, and certifications against your desired role, then create a personalized career plan to bridge the gap. This program follows a Continuous Improvement and Continuous Development (CI/CD) model, evolving over time as you grow and your goals develop.<BR />
 
 # We will have a one on one discussion
+Our initial meeting is typically a video chat for 1 hour.<BR />
+I typically introduce myself, current employer, certifications, experience, skills, etc.<BR />
+<BR />
 What do you want to do?<BR />
 I have to understand what it is that you want to do. The answer cannot be "make lots of money".<BR />
 You can make a lot of money doing less stressful jobs.<BR />
