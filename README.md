@@ -13,27 +13,28 @@ This is a two way street, if you want help and put in the effort you will get th
 This is a life long mentorship program.<BR />
 There is no cost or fees. This is just doing the right thing.<BR />
 
-
-# We will have a one on one discussion
-Our initial meeting is typically a video chat for 1 hour.<BR />
-I typically introduce myself, current employer, certifications, experience, skills, etc.<BR />
-<BR />
-What do you want to do?<BR />
-I have to understand what it is that you want to do. The answer cannot be "make lots of money".<BR />
-You can make a lot of money doing less stressful jobs.<BR />
-You have to have a passion for people, process, data and technology.<BR />
+# How do we go from current state to future state?
+We develop an individualized career plan for you based on what you want to accomplish.<BR />
+Career Planning Guide<BR />
+Download the Career Planning Guide<BR />
+https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Career%20Planning.xlsx<BR />
+Follow the instruction linked below to complete the intial planning guide.<BR />
+https://bvoris.github.io/content/career%20planning%20guide/2022/05/03/careerplanningguide/
 
 # Have you looked at what these roles require for experience, skills, degree, and certifications?
 Do you have the experience, skills, degree, and certifications required for the role?<BR />
 Sample role:<BR />
 https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Security%20Analyst%20Job%20Research.xlsx
 
-# How do we go from current state to future state?
-We develop an individualized career plan for you based on what you want to accomplish.<BR />
-Career Planning Guide<BR />
-https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Career%20Planning.xlsx<BR />
+# We will have a one on one discussion
+Our initial meeting is typically a video chat for 1 hour.<BR />
+I typically introduce myself, current employer, certifications, experience, skills, etc.<BR />
+<BR />
 
-https://bvoris.github.io/content/career%20planning%20guide/2022/05/03/careerplanningguide/
+# What do you want to do?
+I have to understand what it is that you want to do. The answer cannot be "make lots of money".<BR />
+You can make a lot of money doing less stressful jobs.<BR />
+You have to have a passion for people, process, data and technology.<BR />
 
 # Where do we go from here?
 This is a CI/CD model... Continous improvement and continous development. Together over time we figure out where you want to go and how you can get there.
@@ -43,6 +44,7 @@ This is a CI/CD model... Continous improvement and continous development. Togeth
 
 # Do you want to start a mentorship program?
 Reach out! I'd love to help you get started.<BR />
+https://linktr.ee/bradvoris<BR />
 
 ## Connect with me at
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
