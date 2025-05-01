@@ -1,9 +1,19 @@
-# MyMentorshipProgram
+# My Mentorship Program
 My Mentorship Program
 
-Join Discord
+# We will have a one on one discussion
+What do you want to do?
+I have to understand what it is that you want to do. The answer cannot be "make lots of money". You can make a lot of money doing less stressful jobs.
+You have to have a passion for people, process, data and technology.
+
+# Have you looked at what these roles require for experience, skills, degree, and certifications?
+Do you have the experience, skills, degree, and certifications required for the role?
+Sample role:
+https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Security%20Analyst%20Job%20Research.xlsx
+
+# How do we go from current state to future state?
 Career Planning Guide
 https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Career%20Planning.xlsx
 https://bvoris.github.io/content/career%20planning%20guide/2022/05/03/careerplanningguide/
 
-https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Security%20Analyst%20Job%20Research.xlsx
+
