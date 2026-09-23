@@ -26,6 +26,9 @@ Do you have the experience, skills, degree, and certifications required for the 
 Sample role:<BR />
 https://github.com/bvoris/VictimOfTechnologyDiscordFiles/blob/main/Security%20Analyst%20Job%20Research.xlsx
 
+## Current Role Research Link:
+https://github.com/bvoris/mentorship-roleresearch
+
 ## We will have a one on one discussion
 Our initial meeting is typically a video chat for 1 hour.<BR />
 I typically introduce myself, current employer, certifications, experience, skills, etc.<BR />
